@@ -20,28 +20,51 @@ If you are developing a production application, we recommend using TypeScript wi
 
 
 Persistent---Reflect-XR-Mobile-Work/
+
 │
+
 ├── src/
+
 │   ├── components/ (Not created)
 
 │   ├── pages/ (Not created)
+
 │   ├── App.jsx (Not created)
+
 │   └── main.jsx (Not created)
+
 │
+
 ├── backend/
+
 │   ├── server.js
+
 │   ├── api.test.js
+
 │   ├── .env.example
+
 │   ├── README.md
+
 │   │
+
 │   └── data/
+
 │       ├── patients.json
+
 │       └── sessions.json
+
 │
+
 ├── docs/
+
 │   └── SECURE_DATA_CONNECTION_PLAN.md
+
 │
+
 ├── TASK2_IMPLEMENTATION.md
+
 ├── package.json
+
 ├── index.html
+
 └── vite.config.js
