@@ -1,6 +1,6 @@
 # Task 2 - Backend and Data Completion
 
-This package completes the four requested parts of Task 2.
+This part is about the four requested parts of Task 2.
 
 ## Part 1 - Create sample patient and session data
 
