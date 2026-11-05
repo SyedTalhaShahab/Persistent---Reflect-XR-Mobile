@@ -1,0 +1,62 @@
+[
+  {
+    "patientId": "P-1001",
+    "displayName": "Patient A",
+    "ageRange": "18-24",
+    "program": "Reflect Wellness Pilot",
+    "enrollmentDate": "2026-09-08",
+    "status": "Active",
+    "preferredDevice": "XR Headset",
+    "lastSessionDate": "2026-11-03"
+  },
+  {
+    "patientId": "P-1002",
+    "displayName": "Patient B",
+    "ageRange": "25-34",
+    "program": "Reflect Wellness Pilot",
+    "enrollmentDate": "2026-09-15",
+    "status": "Active",
+    "preferredDevice": "iOS",
+    "lastSessionDate": "2026-11-04"
+  },
+  {
+    "patientId": "P-1003",
+    "displayName": "Patient C",
+    "ageRange": "35-44",
+    "program": "Reflect Wellness Pilot",
+    "enrollmentDate": "2026-09-20",
+    "status": "Active",
+    "preferredDevice": "Android",
+    "lastSessionDate": "2026-11-02"
+  },
+  {
+    "patientId": "P-1004",
+    "displayName": "Patient D",
+    "ageRange": "18-24",
+    "program": "Reflect Wellness Pilot",
+    "enrollmentDate": "2026-10-01",
+    "status": "Active",
+    "preferredDevice": "XR Headset",
+    "lastSessionDate": "2026-11-01"
+  },
+  {
+    "patientId": "P-1005",
+    "displayName": "Patient E",
+    "ageRange": "45-54",
+    "program": "Reflect Wellness Pilot",
+    "enrollmentDate": "2026-10-05",
+    "status": "Paused",
+    "preferredDevice": "iOS",
+    "lastSessionDate": "2026-10-28"
+  },
+  {
+    "patientId": "P-1006",
+    "displayName": "Patient F",
+    "ageRange": "25-34",
+    "program": "Reflect Wellness Pilot",
+    "enrollmentDate": "2026-10-11",
+    "status": "Active",
+    "preferredDevice": "Android",
+    "lastSessionDate": "2026-11-04"
+  }
+]
