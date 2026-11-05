@@ -1,0 +1,13 @@
+{
+  "name": "reflect-provider-dashboard-backend",
+  "private": true,
+  "version": "1.0.0",
+  "type": "module",
+  "scripts": {
+    "start": "node server.js",
+    "test": "node --test api.test.js"
+  },
+  "engines": {
+    "node": ">=20"
+  }
+}
