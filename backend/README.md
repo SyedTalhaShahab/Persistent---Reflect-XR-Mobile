@@ -65,7 +65,3 @@ const patients = await response.json()
 ```
 
 The local API only accepts browser requests from `http://localhost:5173` by default. Set `FRONTEND_ORIGIN` to a different origin when needed.
-
-## Important
-
-All records in this folder are synthetic. Do not replace them with real patient information until the production authentication, authorization, encryption, auditing, privacy, and data-governance requirements have been implemented and reviewed.
